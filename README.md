@@ -8,7 +8,6 @@
 
  
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
-<a href="https://goreportcard.com/report/github.com/gigachad80/Mailansh"><img src="https://goreportcard.com/badge/github.com/gigachad80/Mailansh"></a>
 <a href="https://github.com/gigachad80/Mailansh/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 
 ## Table of Contents
