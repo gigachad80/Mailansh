@@ -87,11 +87,11 @@ go build -o mailansh main.go
 
 **Method 2: Direct Binary Installation**
 ```bash
-go install github.com/gigachad80/mailansh@latest
+go install github.com/gigachad80/Mailansh@latest
 ```
 
 **Method 3: Download Binary**
-Download the latest binary from the [releases page](https://github.com/gigachad80/mailansh/releases) and add it to your PATH.
+Download the latest binary from the [releases page](https://github.com/gigachad80/Mailansh/releases) and add it to your PATH.
 
 ### 🚀 Usage
 
