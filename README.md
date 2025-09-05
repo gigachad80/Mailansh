@@ -1,5 +1,5 @@
 
-🚀 Project Name : MAilansh
+🚀 Project Name : Mailansh
 ===============
 
 
