@@ -80,7 +80,7 @@
 **Method 1: Build from Source**
 ```bash
 git clone https://github.com/gigachad80/Mailansh
-cd cmd/mailansh/
+cd Mailansh/cmd/mailansh/
 go build -o mailansh main.go
 ```
 OR 
