@@ -3,7 +3,7 @@
 ===============
 
 
-### Mailansh : A high-performance Go tool that extracts and analyzes contributors from Git repositories across multiple platforms with advanced filtering capabilities.
+### Mailansh : OSINT tool to extract emails of contributors from Git repositories across multiple platforms with advanced filtering capabilities.
 
 
  
