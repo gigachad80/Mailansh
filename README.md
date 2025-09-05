@@ -118,6 +118,32 @@ Download the latest binary from the [releases page](https://github.com/gigachad8
 
 ```
 
+> [!WARNING]
+> #### 📝 Known Behavior & FAQs
+> ### Progress Display Not Reaching 100%
+> You might notice the progress indicator stopping at something like "189/221 commits (85.5%)" instead of 100%. This is **normal behavior** and doesn't affect the completeness of results.
+> ### Why this happens:
+> * The tool uses a **dual extraction strategy** with concurrent workers
+> * **Method 1**: `git log` extraction (always completes successfully)
+> * **Method 2**: Patch content analysis with 8 concurrent workers
+> * Some git commits may fail to process (merge commits, corrupted patches, etc.)
+> * Workers may terminate early on errors, but **all emails are still found**
+> ### What this means:
+> * ✅ **Your results are complete** - all contributor emails are extracted
+> * ✅ The primary `git log` method captures all standard contributors
+> * ✅ Patch analysis adds any additional emails found in commit content
+> * ✅ Failed commits don't contain unique contributor information
+> **Note: Even if patch processing shows <100%, the contributor list remains accurate and complete.**
+> ### Example output:
+```bash
+[INFO] Extracting from commit history...
+[INFO] Extracting from patch content...
+[PROGRESS] 189/221 commits (85.5%)
+[INFO] Found 45 unique contributors (after filtering):
+```
+
+
+
 ### 📋 Command Line Options
 
 | Flag | Description | Example Usage |
