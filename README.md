@@ -183,7 +183,7 @@ Can't disclose due to personal reasons ╰(*°▽°*)╯
 
 ### ⌚ Development Time
 
-From initial concept to feature-complete implementation, including testing, optimization, and documentation, the development took approximately **4 hours and 15 minutes**.
+From initial concept to feature-complete implementation, including testing, optimization, and documentation, the development took approximately **4 hours**.
 
 ### 🙃 Why I Created This
 
