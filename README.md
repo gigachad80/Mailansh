@@ -84,7 +84,7 @@ git clone https://github.com/gigachad80/Mailansh
 cd cmd/mailansh/
 go build -o mailansh main.go
 ```
-
+OR 
 
 **Method 3: Download Binary**
 Download the latest binary from the [releases page](https://github.com/gigachad80/Mailansh/releases) and add it to your PATH.
