@@ -157,7 +157,7 @@ Download the latest binary from the [releases page](https://github.com/gigachad8
 ### 📝 Roadmap
 
 - [ ] Develop Web UI
-- [ ] Release cross platform executables / binaries
+- [x] Release cross platform executables / binaries
 
 ### 🔧 Technical Details
 
