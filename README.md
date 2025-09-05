@@ -135,7 +135,7 @@ Download the latest binary from the [releases page](https://github.com/gigachad8
 
 ### 📝 Roadmap
 
-- [] Develop Web UI
+- [ ] Develop Web UI
 
 ### 🔧 Technical Details
 
