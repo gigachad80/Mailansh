@@ -149,10 +149,10 @@ Download the latest binary from the [releases page](https://github.com/gigachad8
 |------|-------------|---------------|
 | `-h` | Show help menu | `./mailansh -h` |
 | `--quiet`, `-q` | CSV output suitable for redirection | `./mailansh repo -q > output.csv` |
-| `-g` | Show only GitHub noreply emails | `./mailansh repo -g` |
-| `-p` | Show only popular domain emails | `./mailansh repo -p` |
-| `-cd` | Show only custom/corporate domains | `./mailansh repo -cd` |
-| `-o <file>` | Save output to file (.csv or .txt) | `./mailansh repo -o results.csv` |
+| `-g` | Show only GitHub noreply emails | `./mailansh -g repo ` |
+| `-p` | Show only popular domain emails | `./mailansh -p repo` |
+| `-cd` | Show only custom/corporate domains | `./mailansh =cd repo ` |
+| `-o <file>` | Save output to file (.csv or .txt) | `./mailansh  -o results.csv repo` |
 
 ### 📝 Roadmap
 
