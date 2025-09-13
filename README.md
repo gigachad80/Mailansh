@@ -218,6 +218,7 @@ Also see: [`LICENSE.md`](https://github.com/gigachad80/Mailansh/blob/main/LICENC
 
 
 ---
-
+### First Published : 6th September 2025
+### LAst Updated : 13th September 2025
 
 **Made with ❤️ in Go** - Fast, concurrent, and reliable contributor analysis.
