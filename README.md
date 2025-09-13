@@ -216,7 +216,7 @@ Licensed under the **RPL 1.5** and a **Custom License**.
 Check here: [`CREDITS.md`](https://github.com/gigachad80/Mailansh/blob/main/CREDITS.md) (Important)  
 Also see: [`LICENSE.md`](https://github.com/gigachad80/Mailansh/blob/main/LICENCE.md)
 
-First Published : 6th September 2025
+First Published : 5th September 2025
 
 Last Updated : 13th September 2025
 
